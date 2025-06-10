@@ -1,6 +1,6 @@
 # About me:
 Hi, I'm Joel!
-  - I'm an AI and ML engineer in training, focusing on crafting Real Estate Solutions with AI Agent systems
+I'm an AI and ML engineer in training, focusing on crafting Real Estate Solutions with AI Agent systems
 
 
 # 💻 Tech Stack:
